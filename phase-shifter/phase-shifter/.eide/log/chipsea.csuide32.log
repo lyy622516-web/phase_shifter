@@ -1,0 +1,130 @@
+[2026/10/30 19:29:27 GMT+0800] : launched
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+[Error] : Set GCC Toolchain Path Error!
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+
+
+[Warning] : Canceled
+Canceled: Canceled
+	at Ea (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:8:1546)
+	at file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:155494
+	at Array.forEach (<anonymous>)
+	at r.dispose (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:32:155402)
+	at f_.terminate (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:169:12474)
+	at r.terminate (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:171:1076)
+	at Sa (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:474:11797)
+	at Kp.value (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:474:9939)
+	at T._deliver (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3617)
+	at T.fire (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:3935)
+	at ks.fire (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:8627)
+	at MessagePortMain.<anonymous> (file:///c:/Users/ASUS/AppData/Local/Programs/Microsoft%20VS%20Code/2a59476c9b/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:474:8171)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2934)
+[2026/10/30 19:42:11 GMT+0800] : launched
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+	at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+
+
+[2026/10/30 19:45:10 GMT+0800] : launched
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+	at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+[Error] : c.isNullOrUndefined is not a function
+TypeError: c.isNullOrUndefined is not a function
+	at t.WorkspaceConfiguration.Update (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:104470)
+	at t.WorkspaceConfiguration.Init (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103736)
+	at new I (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:103704)
+	at new t.WorkspaceConfiguration (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:144589)
+	at O.LoadConfigurations (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:81088)
+	at O.<anonymous> (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:71893)
+	at Generator.next (<anonymous>)
+	at s (c:\Users\ASUS\.vscode\extensions\chipsea.csuide32-0.1.7\dist\extension.js:1:58956)
+
+
+[2026/10/30 19:47:55 GMT+0800] : launched
+[Warning] : Client network socket disconnected before secure TLS connection was established
+Error: Client network socket disconnected before secure TLS connection was established
+	at TLSSocket.onConnectEnd (node:internal/tls/wrap:1840:19)
+	at TLSSocket.emit (node:events:526:24)
+	at endReadableNT (node:internal/streams/readable:1783:12)
+	at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+
+
+[2026/10/30 19:56:51 GMT+0800] : launched
+
+
+[2026/10/30 19:59:43 GMT+0800] : launched
+[Error] : Set GCC Toolchain Path Error!
+
+
+[2026/10/30 20:25:31 GMT+0800] : launched
+
+
+[2026/10/30 20:26:59 GMT+0800] : launched
+
+

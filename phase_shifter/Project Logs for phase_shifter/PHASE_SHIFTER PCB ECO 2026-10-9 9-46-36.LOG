@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=\ Pin=C35-2
+Removed Pin From Net: NetName=NetJ1_A7 Pin=U1-6
+Removed Pin From Net: NetName=P4_IN Pin=U3-16
+Removed Pin From Net: NetName=V_DPDT2 Pin=U3-27
+Removed Pin From Net: NetName=\ Pin=U12-6
+Added Component: Designator=R24(0402_Z)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R25(0402_Z)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R26(0402_Z)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=R27(0402_Z)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=\ Pin=R24-1
+Added Pin To Net: NetName=V_DPDT2 Pin=R25-2
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=V_DPDT2 Pin=R27-1
+Added Pin To Net: NetName=GND Pin=R27-2
+Added Pin To Net: NetName=DPDT_CTL2 Pin=R25-1
+Added Pin To Net: NetName=DPDT_CTL2 Pin=U3-27
+Added Net: Name=DPDT_CTL2
+Added Pin To Net: NetName=V_DPDT1 Pin=C35-2
+Added Pin To Net: NetName=V_DPDT1 Pin=R24-2
+Added Pin To Net: NetName=V_DPDT1 Pin=R26-1
+Added Pin To Net: NetName=V_DPDT1 Pin=U12-6
+Added Net: Name=V_DPDT1
+Added Member To Class: ClassName=SHIFTER Member=Component D1 B5819W
+Added Member To Class: ClassName=SHIFTER Member=Component D4 SMF5.0A
+Added Member To Class: ClassName=SHIFTER Member=Component R24 1k
+Added Member To Class: ClassName=SHIFTER Member=Component R25 1k
+Added Member To Class: ClassName=SHIFTER Member=Component R26 2k
+Added Member To Class: ClassName=SHIFTER Member=Component R27 2k

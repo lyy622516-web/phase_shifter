@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=P1_IN Pin=R13-1
+Removed Pin From Net: NetName=P2_IN Pin=R14-1
+Removed Pin From Net: NetName=P3_IN Pin=R15-1
+Removed Pin From Net: NetName=P4_IN Pin=R16-1
+Removed Pin From Net: NetName=P5_IN Pin=R17-1
+Removed Pin From Net: NetName=P6_IN Pin=R18-1
+Removed Pin From Net: NetName=P1 Pin=U8-3
+Removed Pin From Net: NetName=P2 Pin=U8-4
+Removed Pin From Net: NetName=P3 Pin=U8-5
+Removed Pin From Net: NetName=P4 Pin=U8-6
+Removed Pin From Net: NetName=P5 Pin=U8-7
+Removed Pin From Net: NetName=P6 Pin=U8-8
+Added Pin To Net: NetName=P1_CTL Pin=R13-1
+Added Pin To Net: NetName=P1_CTL Pin=U8-3
+Added Net: Name=P1_CTL
+Added Pin To Net: NetName=P2_CTL Pin=R14-1
+Added Pin To Net: NetName=P2_CTL Pin=U8-4
+Added Net: Name=P2_CTL
+Added Pin To Net: NetName=P3_CTL Pin=R15-1
+Added Pin To Net: NetName=P3_CTL Pin=U8-5
+Added Net: Name=P3_CTL
+Added Pin To Net: NetName=P4_CTL Pin=R16-1
+Added Pin To Net: NetName=P4_CTL Pin=U8-6
+Added Net: Name=P4_CTL
+Added Pin To Net: NetName=P5_CTL Pin=R17-1
+Added Pin To Net: NetName=P5_CTL Pin=U8-7
+Added Net: Name=P5_CTL
+Added Pin To Net: NetName=P6_CTL Pin=R18-1
+Added Pin To Net: NetName=P6_CTL Pin=U8-8
+Added Net: Name=P6_CTL

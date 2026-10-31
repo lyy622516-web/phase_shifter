@@ -1,0 +1,24 @@
+-mthumb -mcpu=cortex-m0 -T "c:/Users/ASUS/Desktop/coherent/phase_shifter/phase-shifter/phase-shifter/link_script.ld" --specs=nosys.specs --specs=nano.specs -Wl,--gc-sections -Wl,--print-memory-usage
+-Wl,-Map=./build/Debug/phase-shifter.map
+-o ./build/Debug/phase-shifter.elf ./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32a0xx_adc2.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_adc.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_crc.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_debug.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_dma.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_exti.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_flash.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_fwdt.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_gpio.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_i2c.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_misc.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_pmu.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_rcu.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_rtc.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_spi.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_syscfg.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_tim.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_usart.o
+./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_wwdt.o
+./build/Debug/src/main.o
+./build/Debug/src/system_cs32f0xx.o
+./build/Debug/src/startup.o -lm

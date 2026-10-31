@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CH340_XO Pin=U1-7
+Removed Pin From Net: NetName=CH340_XI Pin=U1-8
+Removed Pin From Net: NetName=RXD Pin=U3-30
+Removed Pin From Net: NetName=TXD Pin=U3-31
+Added Pin To Net: NetName=CH340_XI Pin=U1-7
+Added Pin To Net: NetName=CH340_XO Pin=U1-8
+Added Pin To Net: NetName=TXD Pin=U3-30
+Added Pin To Net: NetName=RXD Pin=U3-31

@@ -1,0 +1,4 @@
+Added Component: Designator=J3(H2-2mm)
+Added Pin To Net: NetName=NetA4B9 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Member To Class: ClassName=SHIFTER Member=Component J3 2pin

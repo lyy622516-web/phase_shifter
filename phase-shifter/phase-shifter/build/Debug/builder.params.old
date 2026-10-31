@@ -1,0 +1,94 @@
+{
+    "name": "phase-shifter",
+    "target": "Debug",
+    "toolchain": "GCC",
+    "toolchainLocation": "c:\\Users\\ASUS\\Documents\\Codex\\2026-10-30\\gnu-arm-gcc\\outputs",
+    "toolchainCfgFile": "arm.gcc.model.json",
+    "buildMode": "fast|multhread",
+    "showRepathOnLog": true,
+    "threadNum": 14,
+    "rootDir": "c:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\phase-shifter\\phase-shifter",
+    "dumpPath": ".eide\\log",
+    "outDir": "build\\Debug",
+    "incDirs": [
+        ".eide/deps",
+        "lib/cmsis",
+        ".eide/deps",
+        "src",
+        "hal/CS32F0xx_StdPeriph_Driver/src",
+        "hal/CS32F0xx_StdPeriph_Driver/inc"
+    ],
+    "libDirs": [],
+    "defines": [
+        "USE_STDPERIPH_DRIVER",
+        "CS32F030"
+    ],
+    "sourceList": [
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32a0xx_adc2.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_adc.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_crc.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_debug.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_dma.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_exti.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_flash.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_fwdt.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_gpio.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_i2c.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_misc.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_pmu.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_rcu.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_rtc.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_spi.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_syscfg.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_tim.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_usart.c",
+        "hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_wwdt.c",
+        "src/main.c",
+        "src/startup.s",
+        "src/system_cs32f0xx.c"
+    ],
+    "sourceParams": {},
+    "sourceParamsMtime": 1793363600567.6638,
+    "options": {
+        "version": 4,
+        "beforeBuildTasks": [],
+        "afterBuildTasks": [],
+        "global": {
+            "$float-abi-type": "softfp",
+            "output-debug-info": "enable",
+            "toolPrefix": "arm-none-eabi-",
+            "microcontroller-cpu": "cortex-m0",
+            "microcontroller-fpu": "cortex-m0",
+            "microcontroller-float": "cortex-m0",
+            "target": "cortex-m0"
+        },
+        "c/cpp-compiler": {
+            "language-c": "c11",
+            "language-cpp": "c++14",
+            "optimization": "level-debug",
+            "warnings": "all-warnings",
+            "C_FLAGS": "-ffunction-sections -fdata-sections",
+            "CXX_FLAGS": "-ffunction-sections -fdata-sections"
+        },
+        "asm-compiler": {
+            "ASM_FLAGS": "-ffunction-sections -fdata-sections"
+        },
+        "linker": {
+            "LD_FLAGS": "--specs=nosys.specs --specs=nano.specs -Wl,--gc-sections",
+            "output-format": "elf",
+            "LIB_FLAGS": "-lm",
+            "link-scatter": [
+                "\"c:/Users/ASUS/Desktop/coherent/phase_shifter/phase-shifter/phase-shifter/link_script.ld\""
+            ]
+        }
+    },
+    "sha": {
+        "c/cpp-defines": "bbe4f9e0af1e8e61a54558960d6f6a6f",
+        "beforeBuildTasks": "d751713988987e9331980363e24189ce",
+        "afterBuildTasks": "d751713988987e9331980363e24189ce",
+        "global": "c6f65c83a50fb887722ca8cd935eef15",
+        "c/cpp-compiler": "4ace4c86113d59b3d6e75b5fdc5d724e",
+        "asm-compiler": "4e936c1650c2f18609e37408d1cfbb9f",
+        "linker": "24d83f6a565f92c405cb00bf4f76ec9e"
+    }
+}

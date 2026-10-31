@@ -1,0 +1,6 @@
+r
+halt
+loadfile "c:\Users\ASUS\Desktop\相干增强\移向模块\phase-shifter\phase-shifter\build\Debug\phase-shifter.hex"
+r
+go
+exit

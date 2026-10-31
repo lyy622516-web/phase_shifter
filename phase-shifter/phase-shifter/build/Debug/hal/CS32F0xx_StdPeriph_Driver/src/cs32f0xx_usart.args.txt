@@ -1,0 +1,1 @@
+-std=c11 -c -xc -mthumb -mcpu=cortex-m0 -Og -Wall -g -ffunction-sections -fdata-sections -I./.eide/deps -I./lib/cmsis -I./.eide/deps -I./src -I./hal/CS32F0xx_StdPeriph_Driver/src -I./hal/CS32F0xx_StdPeriph_Driver/inc -DUSE_STDPERIPH_DRIVER -DCS32F030 -o ./build/Debug/hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_usart.o -MMD ./hal/CS32F0xx_StdPeriph_Driver/src/cs32f0xx_usart.c

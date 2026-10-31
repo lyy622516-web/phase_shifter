@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D6
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD6_1
+Added Member To Class: ClassName=SHIFTER Member=Component D2 SMF5.0A
+Added Member To Class: ClassName=SHIFTER Member=Component D5 LED0
+Added Member To Class: ClassName=SHIFTER Member=Component D6 LED1

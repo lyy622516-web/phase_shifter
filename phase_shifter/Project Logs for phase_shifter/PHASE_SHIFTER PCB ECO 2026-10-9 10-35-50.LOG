@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=TXD Pin=U3-30
+Removed Pin From Net: NetName=RXD Pin=U3-31
+Removed Pin From Net: NetName=TXD Pin=U3-42
+Removed Pin From Net: NetName=PB3 Pin=U3-43
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=RXD Pin=U3-30
+Added Pin To Net: NetName=TXD Pin=U3-31
+Added Pin To Net: NetName=PB6 Pin=H3-5
+Added Pin To Net: NetName=PB6 Pin=U3-42
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=H3-6
+Added Pin To Net: NetName=PB7 Pin=U3-43
+Added Net: Name=PB7
+Added Member To Class: ClassName=SHIFTER Member=Component R24 6.5k
+Added Member To Class: ClassName=SHIFTER Member=Component R25 50

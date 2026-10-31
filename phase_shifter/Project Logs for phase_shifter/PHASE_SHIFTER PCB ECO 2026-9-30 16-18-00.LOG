@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=PB1 Pin=H1-2
+Removed Pin From Net: NetName=PB3 Pin=H1-3
+Removed Pin From Net: NetName=PB4 Pin=H1-4
+Removed Pin From Net: NetName=PB5 Pin=H1-5
+Removed Pin From Net: NetName=PB8 Pin=H1-6
+Removed Pin From Net: NetName=PA8 Pin=H1-9
+Removed Pin From Net: NetName=PA9 Pin=H1-10
+Removed Pin From Net: NetName=PA10 Pin=H2-1
+Removed Pin From Net: NetName=PA11 Pin=H2-2
+Removed Pin From Net: NetName=PA12 Pin=H2-3
+Removed Pin From Net: NetName=PC13 Pin=H2-4
+Removed Pin From Net: NetName=PC14 Pin=H2-5
+Removed Pin From Net: NetName=PC15 Pin=H2-6
+Removed Pin From Net: NetName=PF6 Pin=H2-7
+Removed Pin From Net: NetName=PF7 Pin=H2-8
+Removed Pin From Net: NetName=PB9 Pin=H2-9
+Removed Pin From Net: NetName=PB10 Pin=H2-10
+Removed Pin From Net: NetName=PB12 Pin=H3-2
+Removed Pin From Net: NetName=\ Pin=H3-3
+Removed Pin From Net: NetName=PB14 Pin=H3-4
+Removed Pin From Net: NetName=PB15 Pin=H3-5
+Removed Pin From Net: NetName=GND Pin=H3-6
+Removed Pin From Net: NetName=CH340_XI Pin=U1-7
+Removed Pin From Net: NetName=PC13 Pin=U3-2
+Removed Pin From Net: NetName=P2_IN Pin=U3-11
+Removed Pin From Net: NetName=P3_IN Pin=U3-12
+Removed Pin From Net: NetName=P2_IN Pin=U3-14
+Removed Pin From Net: NetName=P4_IN Pin=U3-16
+Removed Pin From Net: NetName=PB3 Pin=U3-39
+Change Component Footprint: Designator=H2 Old Footprint=HX PZ2.0-1X10P ZZ New Footprint=8PIN_2mm
+Change Component Footprint: Designator=H3 Old Footprint=HX PZ2.0-1X10P ZZ New Footprint=8PIN_2mm
+Change Component Comment : Designator=H2 Old Comment=10pin_2mm New Comment=8pin_2mm
+Change Component Comment : Designator=H3 Old Comment=10pin_2mm New Comment=8pin_2mm
+Added Pin To Net: NetName=PB12 Pin=H1-1
+Added Pin To Net: NetName=\ Pin=H1-2
+Added Pin To Net: NetName=PB14 Pin=H1-3
+Added Pin To Net: NetName=PB15 Pin=H1-4
+Added Pin To Net: NetName=PA8 Pin=H1-5
+Added Pin To Net: NetName=PA9 Pin=H1-6
+Added Pin To Net: NetName=PA10 Pin=H1-7
+Added Pin To Net: NetName=PA11 Pin=H1-8
+Added Pin To Net: NetName=PA12 Pin=H1-9
+Added Pin To Net: NetName=PF6 Pin=H1-10
+Added Pin To Net: NetName=PF7 Pin=H2-1
+Added Pin To Net: NetName=PB3 Pin=H2-2
+Added Pin To Net: NetName=PB4 Pin=H2-3
+Added Pin To Net: NetName=PB5 Pin=H2-4
+Added Pin To Net: NetName=PB8 Pin=H2-5
+Added Pin To Net: NetName=PB9 Pin=H2-6
+Added Pin To Net: NetName=PC13 Pin=H2-7
+Added Pin To Net: NetName=PC14 Pin=H2-8
+Added Pin To Net: NetName=PB10 Pin=H3-2
+Added Pin To Net: NetName=PB1 Pin=H3-3
+Added Pin To Net: NetName=GND Pin=H3-7
+Added Pin To Net: NetName=CH340_XO Pin=U1-7
+Added Pin To Net: NetName=PA10 Pin=U3-31
+Added Pin To Net: NetName=PA0 Pin=H3-4
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=H3-5
+Added Pin To Net: NetName=PA1 Pin=U3-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=H3-6
+Added Pin To Net: NetName=PA2 Pin=U3-12
+Added Net: Name=PA2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

@@ -1,0 +1,5 @@
+Remove Pin=H3-8 From Net=PA12
+Remove Pin=R1-2 From Net=NetA4B9
+Add Pin To Net: Pin=H3-8 Old Net=PA12 New Net=PB8
+Add Pin To Net: Pin=U3-16 Old Net=NetU3_16 New Net=P4_IN
+Add Pin To Net: Pin=U7-1 Old Net=NetU7_1 New Net=LNA_5V

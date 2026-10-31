@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V_DPDT2 Pin=C43-2
+Removed Pin From Net: NetName=LNA_IN Pin=C47-1
+Removed Pin From Net: NetName=LNA_OUT Pin=C48-1
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=LNA_IN Pin=C47-2
+Added Pin To Net: NetName=LNA_OUT Pin=C48-2
+Added Pin To Net: NetName=NetC47_1 Pin=C47-1
+Added Pin To Net: NetName=NetC47_1 Pin=U12-1
+Added Net: Name=NetC47_1
+Added Pin To Net: NetName=NetC48_1 Pin=C48-1
+Added Pin To Net: NetName=NetC48_1 Pin=U13-3
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetU12_3 Pin=U12-3
+Added Pin To Net: NetName=NetU12_3 Pin=U13-1
+Added Net: Name=NetU12_3

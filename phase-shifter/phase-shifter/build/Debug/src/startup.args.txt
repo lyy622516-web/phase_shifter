@@ -1,0 +1,1 @@
+-c -x assembler-with-cpp -mthumb -mcpu=cortex-m0 -g -ffunction-sections -fdata-sections -I./.eide/deps -I./lib/cmsis -I./.eide/deps -I./src -I./hal/CS32F0xx_StdPeriph_Driver/src -I./hal/CS32F0xx_StdPeriph_Driver/inc -o ./build/Debug/src/startup.o -MMD ./src/startup.s
