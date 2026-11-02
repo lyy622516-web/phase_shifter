@@ -1,0 +1,147 @@
+[
+  {
+    "component": "零件2-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\零件2.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\3D_PHASE_SHIFTER_2026-10-31.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/J2~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~P95g.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\J2~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~P95g.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/J2~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~P95g.step-1/TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U2~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~OQWZ.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\U2~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~OQWZ.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U2~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~OQWZ.step-1/CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/J1~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~CO1h.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\J1~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~CO1h.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/J1~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~CO1h.step-1/TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/RF2~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~BwMJ.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\RF2~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~BwMJ.step.SLDASM",
+    "suppression": 0
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/Board~SNnK.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\Board~SNnK.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/RF1~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~wpvQ.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\RF1~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~wpvQ.step.SLDASM",
+    "suppression": 0
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/C5~0805~R0805____________~LFKa.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\C5~0805~R0805____________~LFKa.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/C5~0805~R0805____________~LFKa.step-1/0805~R0805____________~hDe1.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\0805~R0805____________~hDe1.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U8~J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~5ncf.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\U8~J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~5ncf.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U8~J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~5ncf.step-1/J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~PAck.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~PAck.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U10~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~miDO.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\U10~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~miDO.step.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "3D_PHASE_SHIFTER_2026-10-31.step-1/U10~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~miDO.step-1/CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\电路板参考\\CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "零件1-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\零件1.SLDPRT",
+    "suppression": 0
+  },
+  {
+    "component": "SMA_四孔12.7_绝缘段4_简化-2",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "左射频侧板组件-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\左射频侧板组件.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "左射频侧板组件-1/SMA_四孔12.7_绝缘段4_简化-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+    "suppression": 0
+  },
+  {
+    "component": "左射频侧板组件-1/左射频侧板_4mm-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\左射频侧板_4mm.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "右射频侧板组件-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板组件.SLDASM",
+    "suppression": 2
+  },
+  {
+    "component": "右射频侧板组件-1/右射频侧板_4mm-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板_4mm.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "右射频侧板组件-1/SMA_四孔12.7_绝缘段4_简化-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+    "suppression": 0
+  },
+  {
+    "component": "后接口侧板_4mm-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\后接口侧板_4mm.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "前侧板_4mm-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\前侧板_4mm.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "SMA_四孔12.7_绝缘段4_简化-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+    "suppression": 2
+  },
+  {
+    "component": "独立底板_保留PCB支撑-1",
+    "path": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\独立底板_保留PCB支撑.SLDPRT",
+    "suppression": 2
+  }
+]
