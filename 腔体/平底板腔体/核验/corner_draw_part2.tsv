@@ -1,0 +1,87 @@
+VERIFIED_CORNER_THREAD	Corner_Rear_M2_Cosmetic_1	M2x0.4-6H DEPTH 3.5
+VERIFIED_CORNER_THREAD	Corner_Rear_M2_Cosmetic_2	M2x0.4-6H DEPTH 3.5
+DIMENSION	side_length	工程图视图1	horizontal	46.98	4	-0.01	0.01	130	235
+DIMENSION	side_height	工程图视图1	vertical	8.851909565512	4	-0.01	0.01	50	200
+DIMENSION	side_thick	工程图视图2	horizontal	4	4	-0.01	0.01	255	235
+DIMENSION	sma_pitch	工程图视图1	horizontal	8.6	4	-0.01	0.01	110	225
+DIMENSION	sma_y	工程图视图1	horizontal	10.725	4	-0.01	0.01	95	175
+DIMENSION	sma_upper_z	工程图视图1	vertical	4.3	4	-0.01	0.01	200	200
+DIMENSION	sma_center_dia	工程图视图1	diameter	4.1	2	0	0.02	150	250
+DIMENSION	sma_center_z	工程图视图1	vertical	1.65140589281199	4	-0.01	0.01	205	190
+DIMENSION	vertical_frame_y	工程图视图2	vertical	5.3	4	-0.01	0.01	240	160
+DIMENSION	vertical_frame_x	工程图视图2	horizontal	2	4	-0.01	0.01	255	245
+DIMENSION	front_cross_clear_dia	工程图视图1	diameter	2.2	2	0	0.02	215	250
+DIMENSION	front_cross_y	工程图视图1	horizontal	2	4	-0.01	0.01	160	155
+DIMENSION	front_cross_z	工程图视图1	vertical	2.851909565512	4	-0.01	0.01	220	190
+DIMENSION	front_cross_pitch	工程图视图1	vertical	4	4	-0.01	0.01	230	200
+DIMENSION	rear_cross_x	工程图视图3	horizontal	2	4	-0.01	0.01	310	175
+DIMENSION	rear_cross_z	工程图视图3	vertical	2.851909565512	4	-0.01	0.01	330	200
+DIMENSION	rear_cross_pitch	工程图视图3	vertical	4	4	-0.01	0.01	340	200
+CTHREAD_SOURCE	工程图视图1	SMA_Upper_Cosmetic_1	M2.2x0.45 THRU
+CTHREAD_SOURCE	工程图视图1	SMA_Upper_Cosmetic_2	M2.2x0.45 THRU
+THREAD_CALLOUT	工程图视图1	SMA_Upper_Cosmetic_1	2x M2.2x0.45 THRU
+CALLOUT_GROUPS	1
+CTHREAD_SOURCE	工程图视图2	Frame_M2_Through_Cosmetic_1	M2x0.4-6H THRU
+THREAD_CALLOUT	工程图视图2	Frame_M2_Through_Cosmetic_1	M2x0.4-6H THRU
+CALLOUT_GROUPS	1
+CTHREAD_SOURCE	工程图视图3	Corner_Rear_M2_Cosmetic_1	M2x0.4-6H DEPTH 3.5
+CTHREAD_SOURCE	工程图视图3	Corner_Rear_M2_Cosmetic_2	M2x0.4-6H DEPTH 3.5
+THREAD_CALLOUT	工程图视图3	Corner_Rear_M2_Cosmetic_1	2x M2x0.4-6H DEPTH 3.5
+CALLOUT_GROUPS	1
+NOTE	40	280	左射频侧板
+NOTE	40	115	前端2处横向Φ2.2通孔，穿4；配M2×8。
+NOTE	40	105	后端2处横向M2×0.4，牙深3.5；Φ1.6底孔圆柱深4，钻尖另计。
+NOTE	40	95	竖向框架M2孔1处；SMA上排M2.2孔2处贯通。
+NOTE	40	48	材料6061-T6；单位mm；未单注线性尺寸公差±0.01。
+NOTE	40	38	普通光孔+0.02/0；螺纹按代号，攻丝底孔按加工工艺。
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__side_length	46.98	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__side_height	8.851909565512	4	-0.01	0.01	50	200
+AUDIT_DIM	CAD_DIM__sma_pitch	8.6	4	-0.01	0.01	110	225
+AUDIT_DIM	CAD_DIM__sma_y	10.725	4	-0.01	0.01	95	175
+AUDIT_DIM	CAD_DIM__sma_upper_z	4.3	4	-0.01	0.01	200	200
+AUDIT_DIM	CAD_DIM__sma_center_dia	4.1	2	0	0.02	150	250
+AUDIT_DIM	CAD_DIM__sma_center_z	1.65140589281199	4	-0.01	0.01	205	190
+AUDIT_DIM	CAD_DIM__front_cross_clear_dia	2.2	2	0	0.02	215	250
+AUDIT_DIM	CAD_DIM__front_cross_y	2	4	-0.01	0.01	160	155
+AUDIT_DIM	CAD_DIM__front_cross_z	2.851909565512	4	-0.01	0.01	220	190
+AUDIT_DIM	CAD_DIM__front_cross_pitch	4	4	-0.01	0.01	230	200
+AUDIT_THREAD_CALLOUT	2x M2.2x0.45 THRU
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__side_thick	4	4	-0.01	0.01	255	235
+AUDIT_DIM	CAD_DIM__vertical_frame_y	5.3	4	-0.01	0.01	240	160
+AUDIT_DIM	CAD_DIM__vertical_frame_x	2	4	-0.01	0.01	255	245
+AUDIT_THREAD_CALLOUT	M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__rear_cross_x	2	4	-0.01	0.01	310	175
+AUDIT_DIM	CAD_DIM__rear_cross_z	2.851909565512	4	-0.01	0.01	330	200
+AUDIT_DIM	CAD_DIM__rear_cross_pitch	4	4	-0.01	0.01	340	200
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H DEPTH 3.5
+AUDIT_VIEW	工程图视图4
+SAVED_NATIVE_DRW_DXF_BMP	C:\Users\ASUS\Desktop\coherent\phase_shifter\腔体\平底板腔体\工程图\左射频侧板_工程图
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__side_length	46.98	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__side_height	8.851909565512	4	-0.01	0.01	50	200
+AUDIT_DIM	CAD_DIM__sma_pitch	8.6	4	-0.01	0.01	110	225
+AUDIT_DIM	CAD_DIM__sma_y	10.725	4	-0.01	0.01	95	175
+AUDIT_DIM	CAD_DIM__sma_upper_z	4.3	4	-0.01	0.01	200	200
+AUDIT_DIM	CAD_DIM__sma_center_dia	4.1	2	0	0.02	150	250
+AUDIT_DIM	CAD_DIM__sma_center_z	1.65140589281199	4	-0.01	0.01	205	190
+AUDIT_DIM	CAD_DIM__front_cross_clear_dia	2.2	2	0	0.02	215	250
+AUDIT_DIM	CAD_DIM__front_cross_y	2	4	-0.01	0.01	160	155
+AUDIT_DIM	CAD_DIM__front_cross_z	2.851909565512	4	-0.01	0.01	220	190
+AUDIT_DIM	CAD_DIM__front_cross_pitch	4	4	-0.01	0.01	230	200
+AUDIT_THREAD_CALLOUT	2x M2.2x0.45 THRU
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__side_thick	4	4	-0.01	0.01	255	235
+AUDIT_DIM	CAD_DIM__vertical_frame_y	5.3	4	-0.01	0.01	240	160
+AUDIT_DIM	CAD_DIM__vertical_frame_x	2	4	-0.01	0.01	255	245
+AUDIT_THREAD_CALLOUT	M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__rear_cross_x	2	4	-0.01	0.01	310	175
+AUDIT_DIM	CAD_DIM__rear_cross_z	2.851909565512	4	-0.01	0.01	330	200
+AUDIT_DIM	CAD_DIM__rear_cross_pitch	4	4	-0.01	0.01	340	200
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H DEPTH 3.5
+AUDIT_VIEW	工程图视图4
+REOPENED_DIM_COUNT	17
+COMPLETE_CORNER_DRAW_PART_2

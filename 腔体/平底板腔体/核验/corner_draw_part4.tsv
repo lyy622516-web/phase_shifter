@@ -1,0 +1,59 @@
+VERIFIED_CORNER_THREAD	Corner_L_M2_Cosmetic_1	M2x0.4-6H DEPTH 4.5
+VERIFIED_CORNER_THREAD	Corner_L_M2_Cosmetic_2	M2x0.4-6H DEPTH 4.5
+VERIFIED_CORNER_THREAD	Corner_R_M2_Cosmetic_1	M2x0.4-6H DEPTH 4.5
+VERIFIED_CORNER_THREAD	Corner_R_M2_Cosmetic_2	M2x0.4-6H DEPTH 4.5
+DIMENSION	front_length	工程图视图1	horizontal	49.95	4	-0.01	0.01	130	235
+DIMENSION	front_height	工程图视图1	vertical	8.851909565512	4	-0.01	0.01	50	200
+DIMENSION	front_thick	工程图视图2	vertical	4	4	-0.01	0.01	210	130
+DIMENSION	front_frame_pitch	工程图视图2	horizontal	25.35	4	-0.01	0.01	130	155
+DIMENSION	front_frame_x	工程图视图2	horizontal	12.3	4	-0.01	0.01	100	115
+DIMENSION	front_frame_y	工程图视图2	vertical	2	4	-0.01	0.01	220	130
+DIMENSION	front_cross_y	工程图视图3	horizontal	2	4	-0.01	0.01	290	175
+DIMENSION	front_cross_z	工程图视图3	vertical	2.851909565512	4	-0.01	0.01	315	200
+DIMENSION	front_cross_pitch	工程图视图3	vertical	4	4	-0.01	0.01	325	200
+CTHREAD_SOURCE	工程图视图2	Frame_M2_Through_Cosmetic_1	M2x0.4-6H THRU
+CTHREAD_SOURCE	工程图视图2	Frame_M2_Through_Cosmetic_2	M2x0.4-6H THRU
+THREAD_CALLOUT	工程图视图2	Frame_M2_Through_Cosmetic_1	2x M2x0.4-6H THRU
+CALLOUT_GROUPS	1
+CTHREAD_SOURCE	工程图视图3	Corner_L_M2_Cosmetic_1	M2x0.4-6H DEPTH 4.5
+CTHREAD_SOURCE	工程图视图3	Corner_L_M2_Cosmetic_2	M2x0.4-6H DEPTH 4.5
+THREAD_CALLOUT	工程图视图3	Corner_L_M2_Cosmetic_1	2x M2x0.4-6H DEPTH 4.5
+CALLOUT_GROUPS	1
+NOTE	40	280	前侧板
+NOTE	40	80	两端同加工，各2处横向M2×0.4，牙深4.5；Φ1.6底孔圆柱深5，钻尖另计。
+NOTE	40	70	2处竖向框架M2贯通；横向螺钉配M2×8，名义拧入4。
+NOTE	40	48	材料6061-T6；单位mm；未单注线性尺寸公差±0.01。
+NOTE	40	38	普通光孔+0.02/0；螺纹按代号，攻丝底孔按加工工艺。
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__front_length	49.95	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__front_height	8.851909565512	4	-0.01	0.01	50	200
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__front_thick	4	4	-0.01	0.01	210	130
+AUDIT_DIM	CAD_DIM__front_frame_pitch	25.35	4	-0.01	0.01	130	155
+AUDIT_DIM	CAD_DIM__front_frame_x	12.3	4	-0.01	0.01	100	115
+AUDIT_DIM	CAD_DIM__front_frame_y	2	4	-0.01	0.01	220	130
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__front_cross_y	2	4	-0.01	0.01	290	175
+AUDIT_DIM	CAD_DIM__front_cross_z	2.851909565512	4	-0.01	0.01	315	200
+AUDIT_DIM	CAD_DIM__front_cross_pitch	4	4	-0.01	0.01	325	200
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H DEPTH 4.5
+AUDIT_VIEW	工程图视图4
+SAVED_NATIVE_DRW_DXF_BMP	C:\Users\ASUS\Desktop\coherent\phase_shifter\腔体\平底板腔体\工程图\前侧板_工程图
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__front_length	49.95	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__front_height	8.851909565512	4	-0.01	0.01	50	200
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__front_thick	4	4	-0.01	0.01	210	130
+AUDIT_DIM	CAD_DIM__front_frame_pitch	25.35	4	-0.01	0.01	130	155
+AUDIT_DIM	CAD_DIM__front_frame_x	12.3	4	-0.01	0.01	100	115
+AUDIT_DIM	CAD_DIM__front_frame_y	2	4	-0.01	0.01	220	130
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__front_cross_y	2	4	-0.01	0.01	290	175
+AUDIT_DIM	CAD_DIM__front_cross_z	2.851909565512	4	-0.01	0.01	315	200
+AUDIT_DIM	CAD_DIM__front_cross_pitch	4	4	-0.01	0.01	325	200
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H DEPTH 4.5
+AUDIT_VIEW	工程图视图4
+REOPENED_DIM_COUNT	9
+COMPLETE_CORNER_DRAW_PART_4

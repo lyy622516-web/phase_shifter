@@ -1,0 +1,72 @@
+DIMENSION	rear_length	工程图视图1	horizontal	57.95	4	-0.01	0.01	130	235
+DIMENSION	rear_height	工程图视图1	vertical	8.851909565512	4	-0.01	0.01	40	200
+DIMENSION	rear_thick	工程图视图2	vertical	4	4	-0.01	0.01	220	130
+DIMENSION	rear_frame_pitch	工程图视图2	horizontal	41	4	-0.01	0.01	130	155
+DIMENSION	rear_frame_x	工程图视图2	horizontal	7.3	4	-0.01	0.01	100	115
+DIMENSION	rear_frame_y	工程图视图2	vertical	1.99999999999999	4	-0.01	0.01	230	130
+DIMENSION	rear_window_width	工程图视图1	horizontal	33.203	4	-0.01	0.01	130	170
+DIMENSION	rear_window_height	工程图视图1	vertical	5.351909565512	4	-0.01	0.01	220	200
+DIMENSION	rear_window_x	工程图视图1	horizontal	10.37	4	-0.01	0.01	85	155
+DIMENSION	rear_end_width	工程图视图2	horizontal	4	4	-0.01	0.01	75	105
+DIMENSION	rear_end_step	工程图视图2	vertical	1	4	-0.01	0.01	55	130
+DIMENSION	rear_end_thick	工程图视图2	vertical	3	4	-0.01	0.01	65	130
+DIMENSION	rear_cross_dia	工程图视图1	diameter	2.2	2	0	0.02	70	260
+DIMENSION	rear_cross_x	工程图视图1	horizontal	2	4	-0.01	0.01	90	145
+DIMENSION	rear_cross_pair_pitch	工程图视图1	horizontal	53.95	4	-0.01	0.01	130	245
+DIMENSION	rear_cross_z	工程图视图1	vertical	2.851909565512	4	-0.01	0.01	230	190
+DIMENSION	rear_cross_pitch	工程图视图1	vertical	4	4	-0.01	0.01	240	200
+CTHREAD_SOURCE	工程图视图2	Frame_M2_Through_Cosmetic_1	M2x0.4-6H THRU
+CTHREAD_SOURCE	工程图视图2	Frame_M2_Through_Cosmetic_2	M2x0.4-6H THRU
+THREAD_CALLOUT	工程图视图2	Frame_M2_Through_Cosmetic_1	2x M2x0.4-6H THRU
+CALLOUT_GROUPS	1
+NOTE	40	280	后接口侧板
+NOTE	40	85	两端各2处横向Φ2.2通孔，贯穿端部厚3；配M2×6。
+NOTE	40	75	端部矩形缺口左右对称：宽4、让位1；中部厚4，端部厚3。
+NOTE	40	65	2处竖向框架M2贯通；后方通窗组合净高6.70。
+NOTE	40	48	材料6061-T6；单位mm；未单注线性尺寸公差±0.01。
+NOTE	40	38	普通光孔+0.02/0；螺纹按代号，攻丝底孔按加工工艺。
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__rear_length	57.95	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__rear_height	8.851909565512	4	-0.01	0.01	40	200
+AUDIT_DIM	CAD_DIM__rear_window_width	33.203	4	-0.01	0.01	130	170
+AUDIT_DIM	CAD_DIM__rear_window_height	5.351909565512	4	-0.01	0.01	220	200
+AUDIT_DIM	CAD_DIM__rear_window_x	10.37	4	-0.01	0.01	85	155
+AUDIT_DIM	CAD_DIM__rear_cross_dia	2.2	2	0	0.02	70	260
+AUDIT_DIM	CAD_DIM__rear_cross_x	2	4	-0.01	0.01	90	145
+AUDIT_DIM	CAD_DIM__rear_cross_pair_pitch	53.95	4	-0.01	0.01	130	245
+AUDIT_DIM	CAD_DIM__rear_cross_z	2.851909565512	4	-0.01	0.01	230	190
+AUDIT_DIM	CAD_DIM__rear_cross_pitch	4	4	-0.01	0.01	240	200
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__rear_thick	4	4	-0.01	0.01	220	130
+AUDIT_DIM	CAD_DIM__rear_frame_pitch	41	4	-0.01	0.01	130	155
+AUDIT_DIM	CAD_DIM__rear_frame_x	7.3	4	-0.01	0.01	100	115
+AUDIT_DIM	CAD_DIM__rear_frame_y	1.99999999999999	4	-0.01	0.01	230	130
+AUDIT_DIM	CAD_DIM__rear_end_width	4	4	-0.01	0.01	75	105
+AUDIT_DIM	CAD_DIM__rear_end_step	1	4	-0.01	0.01	55	130
+AUDIT_DIM	CAD_DIM__rear_end_thick	3	4	-0.01	0.01	65	130
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+SAVED_NATIVE_DRW_DXF_BMP	C:\Users\ASUS\Desktop\coherent\phase_shifter\腔体\平底板腔体\工程图\后接口侧板_工程图
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__rear_length	57.95	4	-0.01	0.01	130	235
+AUDIT_DIM	CAD_DIM__rear_height	8.851909565512	4	-0.01	0.01	40	200
+AUDIT_DIM	CAD_DIM__rear_window_width	33.203	4	-0.01	0.01	130	170
+AUDIT_DIM	CAD_DIM__rear_window_height	5.351909565512	4	-0.01	0.01	220	200
+AUDIT_DIM	CAD_DIM__rear_window_x	10.37	4	-0.01	0.01	85	155
+AUDIT_DIM	CAD_DIM__rear_cross_dia	2.2	2	0	0.02	70	260
+AUDIT_DIM	CAD_DIM__rear_cross_x	2	4	-0.01	0.01	90	145
+AUDIT_DIM	CAD_DIM__rear_cross_pair_pitch	53.95	4	-0.01	0.01	130	245
+AUDIT_DIM	CAD_DIM__rear_cross_z	2.851909565512	4	-0.01	0.01	230	190
+AUDIT_DIM	CAD_DIM__rear_cross_pitch	4	4	-0.01	0.01	240	200
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__rear_thick	4	4	-0.01	0.01	220	130
+AUDIT_DIM	CAD_DIM__rear_frame_pitch	41	4	-0.01	0.01	130	155
+AUDIT_DIM	CAD_DIM__rear_frame_x	7.3	4	-0.01	0.01	100	115
+AUDIT_DIM	CAD_DIM__rear_frame_y	1.99999999999999	4	-0.01	0.01	230	130
+AUDIT_DIM	CAD_DIM__rear_end_width	4	4	-0.01	0.01	75	105
+AUDIT_DIM	CAD_DIM__rear_end_step	1	4	-0.01	0.01	55	130
+AUDIT_DIM	CAD_DIM__rear_end_thick	3	4	-0.01	0.01	65	130
+AUDIT_THREAD_CALLOUT	2x M2x0.4-6H THRU
+AUDIT_VIEW	工程图视图3
+REOPENED_DIM_COUNT	17
+COMPLETE_CORNER_DRAW_PART_5

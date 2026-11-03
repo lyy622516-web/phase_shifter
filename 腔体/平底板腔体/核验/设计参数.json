@@ -35,19 +35,11 @@
   "frame_holes": [
     [
       -2.3,
-      -1
-    ],
-    [
-      -2.3,
-      43
+      1
     ],
     [
       51.65,
-      -1
-    ],
-    [
-      51.65,
-      43
+      1
     ],
     [
       12,
@@ -84,5 +76,26 @@
     "前侧板",
     "后接口侧板"
   ],
-  "simple_assembly_count": 9
+  "simple_assembly_count": 9,
+  "corner_z": [
+    5.1,
+    9.1
+  ],
+  "side_end_y": 42.68,
+  "vertical_fastening_positions": 6,
+  "horizontal_fasteners": 8,
+  "front_screws": "4x M2x8, engagement4",
+  "rear_screws": "4x M2x6, engagement3",
+  "front_horizontal_thread_depth": 4.5,
+  "front_horizontal_cylindrical_drill_depth": 5,
+  "rear_horizontal_thread_depth": 3.5,
+  "rear_horizontal_cylindrical_drill_depth": 4,
+  "rear_corner_grip": 3,
+  "rear_corner_notch": [
+    4,
+    1
+  ],
+  "horizontal_pitch_z": 4,
+  "drill_tip_118deg_extra": 0.480688,
+  "rear_min_window_ligament_with_drill_tip": 0.799312
 }

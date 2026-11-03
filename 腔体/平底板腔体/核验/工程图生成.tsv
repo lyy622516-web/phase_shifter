@@ -1,3 +1,0 @@
-DIMENSION	base_length	工程图视图1	horizontal	57.95	4	-0.01	0.01	130	255
-DIMENSION	base_width	工程图视图1	vertical	49.98	4	-0.01	0.01	23	190
-ERROR	7101	Native drawing dimension creation failed: base_thick

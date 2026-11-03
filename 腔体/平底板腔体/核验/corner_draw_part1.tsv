@@ -1,0 +1,52 @@
+DIMENSION	cover_length	工程图视图1	horizontal	57.95	4	-0.01	0.01	130	255
+DIMENSION	cover_width	工程图视图1	vertical	49.98	4	-0.01	0.01	23	190
+DIMENSION	cover_thick	工程图视图2	vertical	2	4	-0.01	0.01	200	80
+DIMENSION	cover_clear_dia	工程图视图1	diameter	2.19999999999999	2	0	0.02	190	245
+DIMENSION	cover_hole_x_0	工程图视图1	horizontal	2	4	-0.01	0.01	130	120
+DIMENSION	cover_hole_x_1	工程图视图1	horizontal	55.95	4	-0.01	0.01	130	115
+DIMENSION	cover_hole_x_2	工程图视图1	horizontal	16.3	4	-0.01	0.01	130	110
+DIMENSION	cover_hole_x_3	工程图视图1	horizontal	41.65	4	-0.01	0.01	130	105
+DIMENSION	cover_hole_x_4	工程图视图1	horizontal	7.3	4	-0.01	0.01	130	100
+DIMENSION	cover_hole_x_5	工程图视图1	horizontal	48.3	4	-0.01	0.01	130	95
+DIMENSION	cover_hole_y_0	工程图视图1	vertical	5.3	4	-0.01	0.01	63	190
+DIMENSION	cover_hole_y_1	工程图视图1	vertical	2	4	-0.01	0.01	58	190
+DIMENSION	cover_hole_y_2	工程图视图1	vertical	47.98	4	-0.01	0.01	53	190
+NOTE	40	280	盖板
+NOTE	240	90	6处Φ2.2通孔；无沉头。
+NOTE	40	48	材料6061-T6；单位mm；未单注线性尺寸公差±0.01。
+NOTE	40	38	普通光孔+0.02/0；螺纹按代号，攻丝底孔按加工工艺。
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__cover_length	57.95	4	-0.01	0.01	130	255
+AUDIT_DIM	CAD_DIM__cover_width	49.98	4	-0.01	0.01	23	190
+AUDIT_DIM	CAD_DIM__cover_clear_dia	2.19999999999999	2	0	0.02	190	245
+AUDIT_DIM	CAD_DIM__cover_hole_x_0	2	4	-0.01	0.01	130	120
+AUDIT_DIM	CAD_DIM__cover_hole_x_1	55.95	4	-0.01	0.01	130	115
+AUDIT_DIM	CAD_DIM__cover_hole_x_2	16.3	4	-0.01	0.01	130	110
+AUDIT_DIM	CAD_DIM__cover_hole_x_3	41.65	4	-0.01	0.01	130	105
+AUDIT_DIM	CAD_DIM__cover_hole_x_4	7.3	4	-0.01	0.01	130	100
+AUDIT_DIM	CAD_DIM__cover_hole_x_5	48.3	4	-0.01	0.01	130	95
+AUDIT_DIM	CAD_DIM__cover_hole_y_0	5.3	4	-0.01	0.01	63	190
+AUDIT_DIM	CAD_DIM__cover_hole_y_1	2	4	-0.01	0.01	58	190
+AUDIT_DIM	CAD_DIM__cover_hole_y_2	47.98	4	-0.01	0.01	53	190
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__cover_thick	2	4	-0.01	0.01	200	80
+AUDIT_VIEW	工程图视图3
+SAVED_NATIVE_DRW_DXF_BMP	C:\Users\ASUS\Desktop\coherent\phase_shifter\腔体\平底板腔体\工程图\盖板_工程图
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__cover_length	57.95	4	-0.01	0.01	130	255
+AUDIT_DIM	CAD_DIM__cover_width	49.98	4	-0.01	0.01	23	190
+AUDIT_DIM	CAD_DIM__cover_clear_dia	2.19999999999999	2	0	0.02	190	245
+AUDIT_DIM	CAD_DIM__cover_hole_x_0	2	4	-0.01	0.01	130	120
+AUDIT_DIM	CAD_DIM__cover_hole_x_1	55.95	4	-0.01	0.01	130	115
+AUDIT_DIM	CAD_DIM__cover_hole_x_2	16.3	4	-0.01	0.01	130	110
+AUDIT_DIM	CAD_DIM__cover_hole_x_3	41.65	4	-0.01	0.01	130	105
+AUDIT_DIM	CAD_DIM__cover_hole_x_4	7.3	4	-0.01	0.01	130	100
+AUDIT_DIM	CAD_DIM__cover_hole_x_5	48.3	4	-0.01	0.01	130	95
+AUDIT_DIM	CAD_DIM__cover_hole_y_0	5.3	4	-0.01	0.01	63	190
+AUDIT_DIM	CAD_DIM__cover_hole_y_1	2	4	-0.01	0.01	58	190
+AUDIT_DIM	CAD_DIM__cover_hole_y_2	47.98	4	-0.01	0.01	53	190
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__cover_thick	2	4	-0.01	0.01	200	80
+AUDIT_VIEW	工程图视图3
+REOPENED_DIM_COUNT	13
+COMPLETE_CORNER_DRAW_PART_1
