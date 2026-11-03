@@ -1,0 +1,2035 @@
+{
+  "preserved": [
+    {
+      "count": 16,
+      "hashes": [
+        {
+          "rel": "\\0805~R0805____________~hDe1.step.SLDPRT",
+          "hash": "103ED089908DC489BDA5F1A028BB4E2D50912126F1FD602B72BCB4F91CA5B7A8"
+        },
+        {
+          "rel": "\\3D_PHASE_SHIFTER_2026-10-31.step",
+          "hash": "74DD0AFF6E5923138E7421391570773CB09090117A67E9AE59977414C9563D66"
+        },
+        {
+          "rel": "\\3D_PHASE_SHIFTER_2026-10-31.step.SLDASM",
+          "hash": "24D920651D474BF485F6B4F0CEF32A3B8030A0369D11F375CCF2EB0B9C262EE3"
+        },
+        {
+          "rel": "\\Board~SNnK.step.SLDPRT",
+          "hash": "C1A9F6941EAD4ECB5C2E05AF7EFC36994283DC1EFCA47F25EA825956D7F967E8"
+        },
+        {
+          "rel": "\\C5~0805~R0805____________~LFKa.step.SLDASM",
+          "hash": "34B08BACE6F0A5AC157B0B0CDEAA7BE519905AD89E9C2B949623E8895C0B580C"
+        },
+        {
+          "rel": "\\CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step.SLDPRT",
+          "hash": "7959B21E7EB04253FA35DCAC8056ACDA85CCDC6D0C6A54D0A5C6C8469C66AE83"
+        },
+        {
+          "rel": "\\J1~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~CO1h.step.SLDASM",
+          "hash": "AB5C49198F0E7D701D96446E92BAF169BC14E38DB527AFAD78B14F6C8E642752"
+        },
+        {
+          "rel": "\\J2~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~P95g.step.SLDASM",
+          "hash": "370E643A115EA096139ED9EC55A3F8032B12F9AD57E93AAA247B32E012E25943"
+        },
+        {
+          "rel": "\\J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~PAck.step.SLDPRT",
+          "hash": "AC93CDD156131945BBA31CC4CE714EAC98391E79A628BD36A6BF815BE7E3FB84"
+        },
+        {
+          "rel": "\\RF1~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~wpvQ.step.SLDASM",
+          "hash": "0D1AE08990CC2286B3439FF903C461D820A61426FC617CEAD1B6D26D4D8EB70E"
+        },
+        {
+          "rel": "\\RF2~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~BwMJ.step.SLDASM",
+          "hash": "86F2EA00CB6223169F798ABA34F2A06B6A926C4D9E2F9E7C5508C33B5D7B637E"
+        },
+        {
+          "rel": "\\SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~zbNH.step.SLDPRT",
+          "hash": "FAF373F1D4C600657CD427DAB00A361AFEFF799DF64644821E1AB57140509F2D"
+        },
+        {
+          "rel": "\\TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step.SLDPRT",
+          "hash": "1297FFC00A0BCA86F8DA13E31473A9AC5D49293B62E1AA7844B71568C49C0ADE"
+        },
+        {
+          "rel": "\\U10~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~miDO.step.SLDASM",
+          "hash": "C30C86C156F47362C28400D4C1F7BB36E947A957E5CA34B2576FE7B3D7027815"
+        },
+        {
+          "rel": "\\U2~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~OQWZ.step.SLDASM",
+          "hash": "027304CE57857567F539614273D2BEADBBBFC281147F33B0B9CD996E69A69023"
+        },
+        {
+          "rel": "\\U8~J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~5ncf.step.SLDASM",
+          "hash": "CA024BE07DF4EBC2D80C4B8C8FE31387422552AF928293DE8A8A476D4216A081"
+        }
+      ],
+      "name": "电路板参考"
+    },
+    {
+      "count": 1,
+      "hashes": [
+        {
+          "rel": "",
+          "hash": "BB9BC362BD442746C819BA38270136D820C953E4FF4FE5506EA3AD0B091AFE8B"
+        }
+      ],
+      "name": "SMA_四孔12.7_绝缘段4_简化.SLDPRT"
+    }
+  ],
+  "removed": [
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高建模记录.py",
+      "Length": 7620
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高预览.png",
+      "Length": 648675
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 963271
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\独立底板_保留PCB支撑.step",
+      "Length": 1935684
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\分体拆装预览.png",
+      "Length": 627004
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\分体结构建模记录.py",
+      "Length": 5178
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\分体零件尺寸.json",
+      "Length": 960
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\分体零件预览.png",
+      "Length": 627004
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\分体装配检查.json",
+      "Length": 23193
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\盖板.step",
+      "Length": 7339264
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\后接口侧板_4mm_TypeC.bmp",
+      "Length": 6480054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\后接口侧板_4mm_TypeC.png",
+      "Length": 184578
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\后接口侧板_4mm.SLDPRT",
+      "Length": 496317
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\后接口侧板_4mm.step",
+      "Length": 1007758
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\孔位检查.json",
+      "Length": 2027
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\零件2.SLDPRT",
+      "Length": 2412408
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\零件2.step",
+      "Length": 7339264
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\前侧板_4mm.SLDPRT",
+      "Length": 492905
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\前侧板_4mm.step",
+      "Length": 1003585
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\实体螺纹修复记录.py",
+      "Length": 10389
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四孔安装面.png",
+      "Length": 682002
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四孔安装腔体.png",
+      "Length": 100926
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四孔安装腔体.step",
+      "Length": 7844051
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四孔SMA装配体.step",
+      "Length": 20118662
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\五件壳体预览.bmp",
+      "Length": 5280054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\五件壳体预览.png",
+      "Length": 168207
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\修改说明.txt",
+      "Length": 5028
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\引用文件检查.json",
+      "Length": 8116
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板_4mm_TypeC.bmp",
+      "Length": 6480054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板_4mm_TypeC.png",
+      "Length": 152517
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板_4mm.SLDPRT",
+      "Length": 1095383
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板_4mm.step",
+      "Length": 1857567
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\右射频侧板组件.SLDASM",
+      "Length": 708032
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\原件校验.json",
+      "Length": 273
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\针脚间隙检查.json",
+      "Length": 343
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\装配体1.SLDASM",
+      "Length": 6000480
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\装配体预览.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\装配体预览.png",
+      "Length": 179582
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\左射频侧板_4mm.SLDPRT",
+      "Length": 1082436
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\左射频侧板_4mm.step",
+      "Length": 1868758
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\左射频侧板组件.SLDASM",
+      "Length": 709925
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC挖槽恢复检查.json",
+      "Length": 405
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA尺寸调整前备份\\3D_PHASE_SHIFTER_2026-10-31.step.SLDASM",
+      "Length": 47493
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA尺寸调整前备份\\零件1.SLDPRT",
+      "Length": 250448
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA尺寸调整前备份\\零件2.SLDPRT",
+      "Length": 1960719
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\SMA尺寸调整前备份\\装配体1.SLDASM",
+      "Length": 3806190
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 1000362
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\后接口侧板_4mm.SLDPRT",
+      "Length": 418308
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\零件2.SLDPRT",
+      "Length": 2322117
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\前侧板_4mm.SLDPRT",
+      "Length": 398528
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\右射频侧板_4mm.SLDPRT",
+      "Length": 961681
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\右射频侧板组件.SLDASM",
+      "Length": 59386
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\装配体1.SLDASM",
+      "Length": 6519485
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\左射频侧板_4mm.SLDPRT",
+      "Length": 953033
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\左射频侧板组件.SLDASM",
+      "Length": 59007
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\TypeC扩窗及特征清理前备份_20261103_111718\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+      "Length": 106133
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\备份清单.json",
+      "Length": 7869
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 1239506
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\后接口侧板_4mm.SLDPRT",
+      "Length": 826002
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\零件2.SLDPRT",
+      "Length": 2236136
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\前侧板_4mm.SLDPRT",
+      "Length": 821312
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\右射频侧板_4mm.SLDPRT",
+      "Length": 820918
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\右射频侧板组件.SLDASM",
+      "Length": 59386
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\装配体1.SLDASM",
+      "Length": 6373140
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\左射频侧板_4mm.SLDPRT",
+      "Length": 827872
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\左射频侧板组件.SLDASM",
+      "Length": 59007
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+      "Length": 106133
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\0805~R0805____________~hDe1.step.SLDPRT",
+      "Length": 282277
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\3D_PHASE_SHIFTER_2026-10-31.step.SLDASM",
+      "Length": 47865
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\Board~SNnK.step.SLDPRT",
+      "Length": 84753
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\C5~0805~R0805____________~LFKa.step.SLDASM",
+      "Length": 39248
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~fSab.step.SLDPRT",
+      "Length": 340412
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\J1~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~CO1h.step.SLDASM",
+      "Length": 39927
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\J2~TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~P95g.step.SLDASM",
+      "Length": 39657
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~PAck.step.SLDPRT",
+      "Length": 517992
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\RF1~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~wpvQ.step.SLDASM",
+      "Length": 40258
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\RF2~SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~BwMJ.step.SLDASM",
+      "Length": 41155
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\SMA-SMD_BWSMA-KE-P001~CONN-TH_HL-SMA-KFD1011~zbNH.step.SLDPRT",
+      "Length": 311962
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\TYPEC_16PIN~TYPE-C-SMD_TYPE-C-16PIN-L7.35~ixpr.step.SLDPRT",
+      "Length": 486852
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\U10~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~miDO.step.SLDASM",
+      "Length": 40406
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\U2~CRYSTAL-SMD_4P-L3.2-W2.5-BL~CRYSTAL-SMD_4P-L3.2-W2.5-BL~OQWZ.step.SLDASM",
+      "Length": 38926
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\加高20p6实施前备份\\电路板参考\\U8~J4_1.25~CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PWB~5ncf.step.SLDASM",
+      "Length": 42004
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四壁分体前备份\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四壁分体前备份\\零件2.SLDPRT",
+      "Length": 1964647
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\四壁分体前备份\\装配体1.SLDASM",
+      "Length": 3555053
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\尺寸规格.json",
+      "Length": 14268
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\独立底板_保留PCB支撑_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\独立底板_保留PCB支撑_工程图.dxf",
+      "Length": 98339
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\独立底板_保留PCB支撑_工程图.pdf",
+      "Length": 465991
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\独立底板_保留PCB支撑_工程图.SLDDRW",
+      "Length": 700841
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\工程图交付说明.txt",
+      "Length": 2069
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\后接口侧板_4mm_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\后接口侧板_4mm_工程图.dxf",
+      "Length": 88008
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\后接口侧板_4mm_工程图.pdf",
+      "Length": 301227
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\后接口侧板_4mm_工程图.SLDDRW",
+      "Length": 385055
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\零件2_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\零件2_工程图.dxf",
+      "Length": 1017679
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\零件2_工程图.pdf",
+      "Length": 429973
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\零件2_工程图.SLDDRW",
+      "Length": 750694
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\六件工程图预览.png",
+      "Length": 399176
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\六件壳体工程图交付.zip",
+      "Length": 14065290
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\六件壳体加工工程图.pdf",
+      "Length": 2216056
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\前侧板_4mm_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\前侧板_4mm_工程图.dxf",
+      "Length": 84756
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\前侧板_4mm_工程图.pdf",
+      "Length": 260565
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\前侧板_4mm_工程图.SLDDRW",
+      "Length": 382614
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\图纸内容建议.txt",
+      "Length": 2794
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\右射频侧板_4mm_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\右射频侧板_4mm_工程图.dxf",
+      "Length": 138330
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\右射频侧板_4mm_工程图.pdf",
+      "Length": 382877
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\右射频侧板_4mm_工程图.SLDDRW",
+      "Length": 777341
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\只读几何采集.swb",
+      "Length": 3183
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图_diagnostic.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图_diagnostic.pdf",
+      "Length": 32282
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图_diagnostic2.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图_diagnostic2.pdf",
+      "Length": 51891
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图_native_fullsheet.dxf",
+      "Length": 166700
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图.bmp",
+      "Length": 6874254
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图.dxf",
+      "Length": 166212
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图.pdf",
+      "Length": 384322
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\左射频侧板_4mm_工程图.SLDDRW",
+      "Length": 788932
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\audit_dxf_single_probe.tsv",
+      "Length": 178
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\audit_single_pdf_probe.tsv",
+      "Length": 20470
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\audit_single_pdf_probe2.tsv",
+      "Length": 27851
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\STEP平面直边环采集.json",
+      "Length": 391372
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\保留格式样本.pdf",
+      "Length": 372500
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\保留格式样本.png",
+      "Length": 155313
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\标题栏填充计划.json",
+      "Length": 14175
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\单件注释附着诊断.swb",
+      "Length": 12882
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\单件DXF诊断.swb",
+      "Length": 13057
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\单件PDF诊断.swb",
+      "Length": 9575
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\单件PDF诊断2.swb",
+      "Length": 11582
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\导出完整PDF.py",
+      "Length": 4772
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_离线验收.json",
+      "Length": 32105
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_原生持久性核验.json",
+      "Length": 1112
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_原生PDF失败输出.pdf",
+      "Length": 27544
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_最终.png",
+      "Length": 310903
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_page01.png",
+      "Length": 28209
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_recovered_native.tsv",
+      "Length": 36268
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_spec.json",
+      "Length": 2821
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_工程图_structure.json",
+      "Length": 60692
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\独立底板_保留PCB支撑_native.tsv",
+      "Length": 15736
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\工程图离线验收.py",
+      "Length": 10046
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\工程图验收要求.json",
+      "Length": 14309
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\关闭前未命名工程图1.SLDDRW",
+      "Length": 66066
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\关闭前未命名工程图2.SLDDRW",
+      "Length": 65550
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\关闭前未命名工程图3.SLDDRW",
+      "Length": 372709
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\关闭前未命名零件3.SLDPRT",
+      "Length": 2877740
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_离线验收.json",
+      "Length": 30294
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_原生持久性核验.json",
+      "Length": 1095
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_原生PDF失败输出.pdf",
+      "Length": 25785
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_最终.png",
+      "Length": 209966
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_page01.png",
+      "Length": 24591
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 30721
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_spec.json",
+      "Length": 2004
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_工程图_structure.json",
+      "Length": 52195
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\后接口侧板_4mm_native.tsv",
+      "Length": 13800
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\恢复导出.tsv",
+      "Length": 575
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\恢复导出与标题栏.swb",
+      "Length": 17957
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\交付文件清单.json",
+      "Length": 3438
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_离线验收.json",
+      "Length": 28919
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_原生持久性核验.json",
+      "Length": 1083
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_原生PDF失败输出.pdf",
+      "Length": 44817
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_最终.png",
+      "Length": 228168
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_page01.png",
+      "Length": 44229
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_recovered_native.tsv",
+      "Length": 30117
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_spec.json",
+      "Length": 1933
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_工程图_structure.json",
+      "Length": 51865
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\零件2_native.tsv",
+      "Length": 13675
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件标题栏与DXF恢复.swb",
+      "Length": 27052
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件工程图离线验收汇总.json",
+      "Length": 2366
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件工程图生成.swb",
+      "Length": 61126
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件工程图页面审查.png",
+      "Length": 98770
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件图纸注释.json",
+      "Length": 26640
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件原生持久性核验.json",
+      "Length": 7536
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\六件最终排版与持久性核验.swb",
+      "Length": 28134
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_离线验收.json",
+      "Length": 29639
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_原生持久性核验.json",
+      "Length": 1089
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_原生PDF失败输出.pdf",
+      "Length": 25616
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_最终.png",
+      "Length": 182605
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_page01.png",
+      "Length": 22535
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 29134
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_spec.json",
+      "Length": 1819
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_工程图_structure.json",
+      "Length": 50416
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\前侧板_4mm_native.tsv",
+      "Length": 13357
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\生成六件工程图宏.py",
+      "Length": 8921
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\首件试绘_短行.swb",
+      "Length": 9773
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\首件试绘.SLDDRW",
+      "Length": 372678
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\首件试绘.swb",
+      "Length": 13633
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\首件试绘.tsv",
+      "Length": 806
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\完整中文样本.pdf",
+      "Length": 155174
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\完整中文样本.png",
+      "Length": 135979
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\完整中文样本2.pdf",
+      "Length": 373834
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\完整中文样本2.png",
+      "Length": 183364
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_离线验收.json",
+      "Length": 44571
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_原生持久性核验.json",
+      "Length": 1270
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_原生PDF失败输出.pdf",
+      "Length": 31762
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_最终.png",
+      "Length": 257667
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_page01.png",
+      "Length": 33800
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 34396
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_spec.json",
+      "Length": 2493
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_工程图_structure.json",
+      "Length": 59087
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\右射频侧板_4mm_native.tsv",
+      "Length": 15244
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\整理交付.py",
+      "Length": 5200
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\转换原生工程图证据.py",
+      "Length": 9340
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\最终交付审查.json",
+      "Length": 1935
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\最终PDF转换核验.json",
+      "Length": 17117
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_离线验收.json",
+      "Length": 44571
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_原生持久性核验.json",
+      "Length": 1270
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_原生PDF失败输出.pdf",
+      "Length": 32251
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_最终.png",
+      "Length": 256234
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_page01.png",
+      "Length": 33522
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 34613
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_spec.json",
+      "Length": 2493
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_工程图_structure.json",
+      "Length": 59091
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\左射频侧板_4mm_native.tsv",
+      "Length": 15248
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\diagnostic2.png",
+      "Length": 30009
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\drawing_helpers.swb",
+      "Length": 7636
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF完整转换样本_修正.pdf",
+      "Length": 161725
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF完整转换样本_修正.png",
+      "Length": 126177
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF完整转换样本.pdf",
+      "Length": 161808
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF完整转换样本.png",
+      "Length": 13782
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF中文转换样本.pdf",
+      "Length": 161725
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\DXF中文转换样本.png",
+      "Length": 103847
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\SW2025工程图API准备.md",
+      "Length": 7418
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\titleblock_helpers.swb",
+      "Length": 3765
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\fonts\\simsun_native.ttf",
+      "Length": 18314228
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\尺寸规格.json",
+      "Length": 14681
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\独立底板_保留PCB支撑_工程图_recovered_native.tsv",
+      "Length": 36266
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\独立底板_保留PCB支撑_工程图.dxf",
+      "Length": 98140
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\独立底板_保留PCB支撑_工程图.pdf",
+      "Length": 465979
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\独立底板_保留PCB支撑_工程图.SLDDRW",
+      "Length": 818367
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\工程图交付说明.txt",
+      "Length": 1715
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\后接口侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 30480
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\后接口侧板_4mm_工程图.dxf",
+      "Length": 90183
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\后接口侧板_4mm_工程图.pdf",
+      "Length": 300207
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\后接口侧板_4mm_工程图.SLDDRW",
+      "Length": 392688
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\零件2_工程图_recovered_native.tsv",
+      "Length": 30115
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\零件2_工程图.dxf",
+      "Length": 1017679
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\零件2_工程图.pdf",
+      "Length": 430055
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\零件2_工程图.SLDDRW",
+      "Length": 771559
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\六件工程图预览.png",
+      "Length": 397541
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\六件壳体工程图交付.zip",
+      "Length": 15187581
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\六件壳体加工工程图.pdf",
+      "Length": 2215991
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\六件图纸注释.json",
+      "Length": 26619
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\前侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 29132
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\前侧板_4mm_工程图.dxf",
+      "Length": 84810
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\前侧板_4mm_工程图.pdf",
+      "Length": 260607
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\前侧板_4mm_工程图.SLDDRW",
+      "Length": 387566
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\图纸内容建议.txt",
+      "Length": 2794
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\右射频侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 34290
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\右射频侧板_4mm_工程图.dxf",
+      "Length": 138555
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\右射频侧板_4mm_工程图.pdf",
+      "Length": 383705
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\右射频侧板_4mm_工程图.SLDDRW",
+      "Length": 969195
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\左射频侧板_4mm_工程图_native_fullsheet.dxf",
+      "Length": 166700
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\左射频侧板_4mm_工程图_recovered_native.tsv",
+      "Length": 34611
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\左射频侧板_4mm_工程图.dxf",
+      "Length": 166212
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\左射频侧板_4mm_工程图.pdf",
+      "Length": 384337
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\左射频侧板_4mm_工程图.SLDDRW",
+      "Length": 980984
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\工程图纸\\审计\\TypeC更新前工程图_20261103_120628\\STEP平面直边环采集.json",
+      "Length": 391372
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 116107
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\后接口侧板_4mm.SLDPRT",
+      "Length": 86411
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\前侧板_4mm.SLDPRT",
+      "Length": 73084
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\右射频侧板_4mm.SLDPRT",
+      "Length": 88373
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\右射频侧板组件.SLDASM",
+      "Length": 75115
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\装配体1.SLDASM",
+      "Length": 3595713
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\左射频侧板_4mm.SLDPRT",
+      "Length": 87864
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\底板整体抬高前备份\\左射频侧板组件.SLDASM",
+      "Length": 73581
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\恢复TypeC挖槽前备份\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 109941
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\恢复TypeC挖槽前备份\\装配体1.SLDASM",
+      "Length": 3465095
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_侧板实施.swb",
+      "Length": 23889
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_底板实施.swb",
+      "Length": 24623
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_front.png",
+      "Length": 410348
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_isometric.png",
+      "Length": 648675
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_parameters.json",
+      "Length": 7780
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_review_report.json",
+      "Length": 11605
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_right.png",
+      "Length": 689198
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_独立底板_保留PCB支撑_top.png",
+      "Length": 586588
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_front.png",
+      "Length": 602887
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_isometric.png",
+      "Length": 607295
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_parameters.json",
+      "Length": 5547
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_review_report.json",
+      "Length": 9294
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_right.png",
+      "Length": 524722
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_后接口侧板_4mm_top.png",
+      "Length": 563720
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_集合导出收尾.swb",
+      "Length": 9551
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_交付审查.json",
+      "Length": 56470
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_交付文件清单.json",
+      "Length": 2767
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_front.png",
+      "Length": 463041
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_isometric.png",
+      "Length": 687999
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_parameters.json",
+      "Length": 778
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_review_report.json",
+      "Length": 4420
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_right.png",
+      "Length": 730496
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_零件2_top.png",
+      "Length": 619251
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_六件壳体等轴测审查.png",
+      "Length": 627004
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_螺纹明细.csv",
+      "Length": 2782
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_目视复核.json",
+      "Length": 578
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_front.png",
+      "Length": 607667
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_isometric.png",
+      "Length": 592780
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_parameters.json",
+      "Length": 5494
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_review_report.json",
+      "Length": 9186
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_right.png",
+      "Length": 529855
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_前侧板_4mm_top.png",
+      "Length": 521388
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_生成交付审查.py",
+      "Length": 12055
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_五件壳体导出中间件_20261102_203659.SLDPRT",
+      "Length": 2871902
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_front.png",
+      "Length": 724019
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_isometric.png",
+      "Length": 699987
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_parameters.json",
+      "Length": 10395
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_review_report.json",
+      "Length": 14147
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_right.png",
+      "Length": 682002
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_右射频侧板_4mm_top.png",
+      "Length": 661273
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_原件校验.json",
+      "Length": 594
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_原生复核导出.swb",
+      "Length": 53478
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_front.png",
+      "Length": 723806
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_isometric.png",
+      "Length": 701401
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_parameters.json",
+      "Length": 10387
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_review_report.json",
+      "Length": 14139
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_right.png",
+      "Length": 681629
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_左射频侧板_4mm_top.png",
+      "Length": 661407
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_API静态二审.json",
+      "Length": 2261
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\保存重开复核_内置宏.swb",
+      "Length": 6123
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\报告总复核_内置宏.swb",
+      "Length": 25308
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_isometric.png",
+      "Length": 663799
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_joint_review_report.json",
+      "Length": 18103
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_review_report.json",
+      "Length": 15602
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\独立底板_保留PCB支撑_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\复核导出_内置宏.swb",
+      "Length": 7871
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\关键尺寸复核_内置宏.swb",
+      "Length": 8311
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_joint_review_report.json",
+      "Length": 11278
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_review_report.json",
+      "Length": 9286
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\后接口侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_保存重开及集合导出.swb",
+      "Length": 18657
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_底板及总复核连续执行.swb",
+      "Length": 56500
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_底板修复.swb",
+      "Length": 17929
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_底板周边让位.swb",
+      "Length": 13385
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_集合导出收尾.swb",
+      "Length": 6908
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_周边让位及总复核连续执行.swb",
+      "Length": 55145
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移_总复核.swb",
+      "Length": 32159
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移065_侧板修复V2.swb",
+      "Length": 20943
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移交付汇总.json",
+      "Length": 44930
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\接缝下移设计参数.json",
+      "Length": 909
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_joint_review_report.json",
+      "Length": 9456
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_review_report.json",
+      "Length": 7421
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\零件2_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\六件壳体等轴测审查.png",
+      "Length": 320200
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_joint_review_report.json",
+      "Length": 11213
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_review_report.json",
+      "Length": 9225
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\前侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\生成交付审查.py",
+      "Length": 12140
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\生成接缝下移交付审查.py",
+      "Length": 22833
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\实体螺纹创建检查.json",
+      "Length": 9096
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\实体螺纹日志转证据.py",
+      "Length": 1230
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\实体螺纹修复_内置宏.swb",
+      "Length": 20655
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\实体螺纹与交付汇总.json",
+      "Length": 27241
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\五件壳体导出中间件.SLDPRT",
+      "Length": 4919626
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\五件壳体集合导出_内置宏.swb",
+      "Length": 5591
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_joint_review_report.json",
+      "Length": 11272
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_review_report.json",
+      "Length": 9263
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\右射频侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\原始文件未改验证.json",
+      "Length": 87
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_front.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_isometric.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_isometric.png",
+      "Length": 707072
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_joint_review_report.json",
+      "Length": 11271
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_review_report.json",
+      "Length": 9259
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_right.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_right.png",
+      "Length": 700271
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\左射频侧板_4mm_top.bmp",
+      "Length": 4800054
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\api_thread_pitch.json",
+      "Length": 1332
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\engineering_plan.json",
+      "Length": 10656
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\GitHub_TypeC更新文件校验.json",
+      "Length": 9364
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\TypeC_五件壳体导出中间件_20261103_121228.SLDPRT",
+      "Length": 2883595
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\typec_census.tsv",
+      "Length": 80032
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\typec_cleanup.tsv",
+      "Length": 6317
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\typec_expand.tsv",
+      "Length": 497
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\typec_final.tsv",
+      "Length": 40146
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\TypeC扩窗与浮动复核.json",
+      "Length": 4115
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_base.log",
+      "Length": 2716
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_export.tsv",
+      "Length": 8502
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_interference.tsv",
+      "Length": 2398
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_key.tsv",
+      "Length": 4646
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_reopen.tsv",
+      "Length": 7260
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_shell.tsv",
+      "Length": 2219
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_sides.log",
+      "Length": 6865
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_tail.tsv",
+      "Length": 343
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\20p6_validation.tsv",
+      "Length": 466
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\20p6_native_logs\\native_thread_repair.log",
+      "Length": 5352
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_base_repair.log",
+      "Length": 2723
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_combined_review.tsv",
+      "Length": 187
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_final_review.tsv",
+      "Length": 4107
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_key_dimensions.tsv",
+      "Length": 2430
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_saved_reopen_review.tsv",
+      "Length": 2888
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_side_repair.log",
+      "Length": 3322
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\joint_tail.tsv",
+      "Length": 196
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\native_thread_repair.log",
+      "Length": 5352
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\joint_native_logs\\shell_export.tsv",
+      "Length": 1185
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\native_logs\\combined_review.tsv",
+      "Length": 187
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\native_logs\\final_review.tsv",
+      "Length": 3568
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\native_logs\\key_dimensions.tsv",
+      "Length": 1670
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\native_logs\\native_thread_repair.log",
+      "Length": 5352
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\native_logs\\saved_reopen_review.tsv",
+      "Length": 375
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\恢复前日志\\默认模板缺失停止集合导出.tsv",
+      "Length": 123
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\技能审查\\恢复前日志\\SMA脏状态阻止关闭.tsv",
+      "Length": 556
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 1222435
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\后接口侧板_4mm.SLDPRT",
+      "Length": 596633
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\零件2.SLDPRT",
+      "Length": 2248489
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\前侧板_4mm.SLDPRT",
+      "Length": 592642
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\右射频侧板_4mm.SLDPRT",
+      "Length": 581090
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\右射频侧板组件.SLDASM",
+      "Length": 58637
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\装配体1.SLDASM",
+      "Length": 5740225
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\左射频侧板_4mm.SLDPRT",
+      "Length": 586103
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\左射频侧板组件.SLDASM",
+      "Length": 58847
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\接缝下移前备份\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+      "Length": 103249
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\整体加高前备份\\零件1.SLDPRT",
+      "Length": 249562
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\整体加高前备份\\零件2.SLDPRT",
+      "Length": 2062091
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\整体加高前备份\\装配体1.SLDASM",
+      "Length": 3825754
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\独立底板_保留PCB支撑.SLDPRT",
+      "Length": 124916
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\后接口侧板_4mm.SLDPRT",
+      "Length": 87264
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\恢复基线核对.json",
+      "Length": 498
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\零件1.SLDPRT",
+      "Length": 270319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\零件2.SLDPRT",
+      "Length": 2225085
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\螺纹试验_前侧板_实体螺纹.png",
+      "Length": 76084
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\螺纹试验_前侧板.png",
+      "Length": 99578
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\螺纹试验_前侧板.SLDPRT",
+      "Length": 387155
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\前侧板_4mm.SLDPRT",
+      "Length": 74120
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\未保存状态_装配体1.SLDASM",
+      "Length": 3078382
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\误改前状态检查.json",
+      "Length": 4929
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\右射频侧板_4mm.SLDPRT",
+      "Length": 85319
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\右射频侧板组件.SLDASM",
+      "Length": 58637
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\装配体1.SLDASM",
+      "Length": 3458708
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\左射频侧板_4mm.SLDPRT",
+      "Length": 85937
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\左射频侧板组件.SLDASM",
+      "Length": 58847
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\误改修复前备份\\SMA_四孔12.7_绝缘段4_简化.SLDPRT",
+      "Length": 103249
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\调整前备份\\零件1.SLDPRT",
+      "Length": 243204
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\调整前备份\\零件2.SLDPRT",
+      "Length": 1976067
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\四孔法兰安装\\调整前备份\\装配体1.SLDASM",
+      "Length": 3816768
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\装配体1.SLDASM",
+      "Length": 3801593
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\零件1.SLDPRT",
+      "Length": 193005
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\零件2.SLDPRT",
+      "Length": 1976067
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\零件1.SLDDRW",
+      "Length": 159152
+    },
+    {
+      "FullName": "C:\\Users\\ASUS\\Desktop\\coherent\\phase_shifter\\腔体\\零件2.SLDDRW",
+      "Length": 766179
+    }
+  ],
+  "removed_temp_images": [
+    "Assembly_Closed.bmp",
+    "Assembly_Open.bmp",
+    "CHECK_4.bmp",
+    "CHECK_5.bmp",
+    "CHECK_6.bmp",
+    "CHECK_7.bmp",
+    "CHECK_8.bmp",
+    "CHECK_9.bmp",
+    "底板_槽及下部开口补充图.bmp",
+    "底板_工程图.bmp",
+    "盖板_工程图.bmp",
+    "后接口侧板_工程图.bmp",
+    "前侧板_工程图.bmp",
+    "右射频侧板_工程图.bmp",
+    "左射频侧板_工程图.bmp"
+  ]
+}

@@ -1,0 +1,75 @@
+DIMENSION	pocket_A_length	工程图视图1	horizontal	7.5	4	-0.01	0.01	171	250
+DIMENSION	pocket_A_width	工程图视图1	vertical	9.2	4	-0.01	0.01	215	200
+DIMENSION	pocket_A_x	工程图视图1	horizontal	46.15	4	-0.01	0.01	120	95
+DIMENSION	pocket_A_y	工程图视图1	vertical	31.4	4	-0.01	0.01	25	170
+DIMENSION	pocket_B_length	工程图视图1	horizontal	9.2	4	-0.01	0.01	142	265
+DIMENSION	pocket_B_width	工程图视图1	vertical	7.5	4	-0.01	0.01	205	220
+DIMENSION	pocket_B_x	工程图视图1	horizontal	33.223	4	-0.01	0.01	120	85
+DIMENSION	pocket_B_y	工程图视图1	vertical	38.18	4	-0.01	0.01	35	170
+DIMENSION	base_right_window_width	工程图视图2	horizontal	11.5	4	-0.01	0.01	310	195
+DIMENSION	base_right_window_depth	工程图视图2	vertical	1.348090434488	4	-0.01	0.01	380	220
+DIMENSION	base_right_window_y	工程图视图2	horizontal	30.2	4	-0.01	0.01	310	185
+DIMENSION	base_rear_window_width	工程图视图3	horizontal	33.203	4	-0.01	0.01	310	115
+DIMENSION	base_rear_window_depth	工程图视图3	vertical	1.348090434488	4	-0.01	0.01	390	135
+DIMENSION	base_rear_window_x	工程图视图3	horizontal	10.37	4	-0.01	0.01	280	105
+DIMENSION	base_matching_arc_axis_y	工程图视图2	horizontal	15.025	4	-0.01	0.01	280	205
+DIMENSION	base_matching_arc_axis_z	工程图视图2	vertical	1.651405892812	4	-0.01	0.01	390	240
+NOTE	25	280	底板 槽及下部开口补充图
+NOTE	167	200	槽A
+NOTE	136	215	槽B
+NOTE	25	65	槽A：7.50×9.20，深0.50；槽B：9.20×7.50，深0.50。
+NOTE	25	55	两处浅槽深度从底板上表面量取，槽底不贯穿。
+NOTE	225	85	右侧及后侧开口均从对应外侧面切入4.00；上方与侧板开口对合。
+NOTE	225	75	左右SMA中心圆弧同孔位，Φ4.10及下排螺纹规格见底板主图。
+NOTE	25	45	材料6061-T6；单位mm；未单注线性尺寸公差±0.01。
+NOTE	25	35	本图与底板_工程图同时使用。
+TITLE_SOURCE	细节项目213	$PRPSHEET:"代号"	“图样代号”
+TITLE_SET	细节项目213	PS-FLAT-01A
+TITLE_SOURCE	细节项目221	$PRPSHEET:"名称"	“图样名称”
+TITLE_SET	细节项目221	底板补充图
+TITLE_SOURCE	细节项目222	$PRPSHEET:"代号"	“图样代号”
+TITLE_SET	细节项目222	PS-FLAT-01A
+TITLE_SOURCE	细节项目230	$PRPSHEET:"材料"	6061-T6 (SS)
+TITLE_SET	细节项目230	6061-T6
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__pocket_A_length	7.5	4	-0.01	0.01	171	250
+AUDIT_DIM	CAD_DIM__pocket_A_width	9.2	4	-0.01	0.01	215	200
+AUDIT_DIM	CAD_DIM__pocket_A_x	46.15	4	-0.01	0.01	120	95
+AUDIT_DIM	CAD_DIM__pocket_A_y	31.4	4	-0.01	0.01	25	170
+AUDIT_DIM	CAD_DIM__pocket_B_length	9.2	4	-0.01	0.01	142	265
+AUDIT_DIM	CAD_DIM__pocket_B_width	7.5	4	-0.01	0.01	205	220
+AUDIT_DIM	CAD_DIM__pocket_B_x	33.223	4	-0.01	0.01	120	85
+AUDIT_DIM	CAD_DIM__pocket_B_y	38.18	4	-0.01	0.01	35	170
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__base_right_window_width	11.5	4	-0.01	0.01	310	195
+AUDIT_DIM	CAD_DIM__base_right_window_depth	1.348090434488	4	-0.01	0.01	380	220
+AUDIT_DIM	CAD_DIM__base_right_window_y	30.2	4	-0.01	0.01	310	185
+AUDIT_DIM	CAD_DIM__base_matching_arc_axis_y	15.025	4	-0.01	0.01	280	205
+AUDIT_DIM	CAD_DIM__base_matching_arc_axis_z	1.651405892812	4	-0.01	0.01	390	240
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__base_rear_window_width	33.203	4	-0.01	0.01	310	115
+AUDIT_DIM	CAD_DIM__base_rear_window_depth	1.348090434488	4	-0.01	0.01	390	135
+AUDIT_DIM	CAD_DIM__base_rear_window_x	10.37	4	-0.01	0.01	280	105
+SAVE_DRW	True	0	0
+SAVE_NATIVE_DXF	True	0	0
+AUDIT_VIEW	工程图视图1
+AUDIT_DIM	CAD_DIM__pocket_A_length	7.5	4	-0.01	0.01	171	250
+AUDIT_DIM	CAD_DIM__pocket_A_width	9.2	4	-0.01	0.01	215	200
+AUDIT_DIM	CAD_DIM__pocket_A_x	46.15	4	-0.01	0.01	120	95
+AUDIT_DIM	CAD_DIM__pocket_A_y	31.4	4	-0.01	0.01	25	170
+AUDIT_DIM	CAD_DIM__pocket_B_length	9.2	4	-0.01	0.01	142	265
+AUDIT_DIM	CAD_DIM__pocket_B_width	7.5	4	-0.01	0.01	205	220
+AUDIT_DIM	CAD_DIM__pocket_B_x	33.223	4	-0.01	0.01	120	85
+AUDIT_DIM	CAD_DIM__pocket_B_y	38.18	4	-0.01	0.01	35	170
+AUDIT_VIEW	工程图视图2
+AUDIT_DIM	CAD_DIM__base_right_window_width	11.5	4	-0.01	0.01	310	195
+AUDIT_DIM	CAD_DIM__base_right_window_depth	1.348090434488	4	-0.01	0.01	380	220
+AUDIT_DIM	CAD_DIM__base_right_window_y	30.2	4	-0.01	0.01	310	185
+AUDIT_DIM	CAD_DIM__base_matching_arc_axis_y	15.025	4	-0.01	0.01	280	205
+AUDIT_DIM	CAD_DIM__base_matching_arc_axis_z	1.651405892812	4	-0.01	0.01	390	240
+AUDIT_VIEW	工程图视图3
+AUDIT_DIM	CAD_DIM__base_rear_window_width	33.203	4	-0.01	0.01	310	115
+AUDIT_DIM	CAD_DIM__base_rear_window_depth	1.348090434488	4	-0.01	0.01	390	135
+AUDIT_DIM	CAD_DIM__base_rear_window_x	10.37	4	-0.01	0.01	280	105
+REOPENED_DETAIL_DIMENSIONS	16
+COMPLETE_BOTTOM_DETAIL_16_DIMS
