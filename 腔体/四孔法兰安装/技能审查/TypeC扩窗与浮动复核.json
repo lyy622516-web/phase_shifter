@@ -1,0 +1,187 @@
+{
+  "status": "native_geometry_and_persistence_pass",
+  "units": "mm",
+  "right_window": [
+    11.5,
+    6.7
+  ],
+  "rear_window": [
+    33.203,
+    6.7
+  ],
+  "bottom_slots": "unchanged",
+  "removed_suppressed_features": 66,
+  "editable_sketches_no_fix": true,
+  "reopened_face_bounds_mm": {
+    "TypeC_Right_11p5x6p7": [
+      [
+        49.65,
+        25.9,
+        0.9,
+        53.65,
+        25.9,
+        7.6
+      ],
+      [
+        49.65,
+        25.9,
+        7.6,
+        53.65,
+        37.4,
+        7.6
+      ],
+      [
+        49.65,
+        37.4,
+        0.9,
+        53.65,
+        37.4,
+        7.6
+      ],
+      [
+        49.65,
+        25.9,
+        0.9,
+        53.65,
+        37.4,
+        0.9
+      ]
+    ],
+    "Rear_Merged_33p203x6p7": [
+      [
+        6.07,
+        41.68,
+        0.9,
+        39.273,
+        45.68,
+        0.9
+      ],
+      [
+        39.273,
+        41.68,
+        0.9,
+        39.273,
+        45.68,
+        7.6
+      ],
+      [
+        6.07,
+        41.68,
+        7.6,
+        39.273,
+        45.68,
+        7.6
+      ],
+      [
+        6.07,
+        41.68,
+        0.9,
+        6.07,
+        45.68,
+        7.6
+      ]
+    ]
+  },
+  "component_transform_checks": [
+    {
+      "assembly": "左射频侧板组件.SLDASM",
+      "component": "SMA_四孔12.7_绝缘段4_简化-1",
+      "suppression": 0,
+      "fixed": true,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "左射频侧板组件.SLDASM",
+      "component": "左射频侧板_4mm-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "右射频侧板组件.SLDASM",
+      "component": "右射频侧板_4mm-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "右射频侧板组件.SLDASM",
+      "component": "SMA_四孔12.7_绝缘段4_简化-1",
+      "suppression": 0,
+      "fixed": true,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "SMA_四孔12.7_绝缘段4_简化-2",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "前侧板_4mm-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "独立底板_保留PCB支撑-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "3D_PHASE_SHIFTER_2026-10-31.step-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "零件1-1",
+      "suppression": 0,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "SMA_四孔12.7_绝缘段4_简化-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "零件2-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "右射频侧板组件-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "左射频侧板组件-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    },
+    {
+      "assembly": "装配体1.SLDASM",
+      "component": "后接口侧板_4mm-1",
+      "suppression": 2,
+      "fixed": false,
+      "transform_max_delta": 0.0
+    }
+  ],
+  "base_volume_mm3": 23017.5543555259,
+  "fit_limit": "按用户要求仅扩大侧壁；未对实际带胶套插头做插拔试验，底板及胶套轴向长度未验证"
+}
