@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="820" viewBox="0 0 1180 820">
+<title>移相器侧向固定腔体平面布置</title>
+<rect width="1180" height="820" fill="white"/>
+<g font-family="Microsoft YaHei, SimSun, sans-serif" fill="#182630">
+<text x="45" y="54" font-size="29" font-weight="bold">移相器腔体平面布置</text>
+<text x="45" y="86" font-size="16" fill="#53616a">侧向固定版 · 拆除盖板俯视 · 尺寸单位 mm</text>
+<rect x="110" y="220.2" width="40.00" height="469.80" fill="#e7e9ec" stroke="#26343e" stroke-width="1.5"/>
+<rect x="649.5" y="220.2" width="40.00" height="469.80" fill="#e7e9ec" stroke="#26343e" stroke-width="1.5"/>
+<rect x="150" y="650" width="499.50" height="40.00" fill="#e7e9ec" stroke="#26343e" stroke-width="1.5"/>
+<path d="M110,190.2 H689.5 V220.2 H649.5 V230.2 H150 V220.2 H110 Z" fill="#e7e9ec" stroke="#26343e" stroke-width="1.5"/>
+<rect x="150.2" y="230.4" width="499.10" height="419.40" fill="#f8fafb" stroke="#78909c" stroke-dasharray="3 3"/>
+<rect x="155.14" y="233.77" width="493.32" height="413.35" fill="#e6f2f5" stroke="#326274" stroke-width="1.5" stroke-dasharray="6 4"/>
+<circle cx="387.28" cy="444.23" r="8" fill="white" stroke="#326274"/>
+<circle cx="175.06" cy="627.23" r="8" fill="white" stroke="#326274"/>
+<circle cx="629.53" cy="627.23" r="8" fill="white" stroke="#326274"/>
+<circle cx="175.06" cy="253.66" r="8" fill="white" stroke="#326274"/>
+<circle cx="629.53" cy="253.66" r="8" fill="white" stroke="#326274"/>
+<circle cx="130" cy="637" r="8" fill="white" stroke="#26343e"/>
+<circle cx="669.5" cy="637" r="8" fill="white" stroke="#26343e"/>
+<circle cx="273" cy="670" r="8" fill="white" stroke="#26343e"/>
+<circle cx="526.5" cy="670" r="8" fill="white" stroke="#26343e"/>
+<circle cx="183" cy="210.2" r="8" fill="white" stroke="#26343e"/>
+<circle cx="593" cy="210.2" r="8" fill="white" stroke="#26343e"/>
+<rect x="93" y="476.25" width="17.00" height="127.00" fill="#ead08a" stroke="#65532f"/>
+<rect x="689.5" y="476.25" width="17.00" height="127.00" fill="#ead08a" stroke="#65532f"/>
+<path d="M60 539.75 H193 M613 539.75 H735" fill="none" stroke="#65532f" stroke-dasharray="5 4"/>
+<rect x="649.5" y="273" width="40.00" height="115.00" fill="#fff" stroke="#9a612f" stroke-dasharray="4 3"/>
+<rect x="213.7" y="190.2" width="332.03" height="40.00" fill="#fff" stroke="#9a612f" stroke-dasharray="4 3"/>
+<rect x="110" y="307.5" width="40" height="75" fill="#fff" stroke="#9a612f" stroke-dasharray="4 3"/>
+<path d="M130 307.5 V253 H157" fill="none" stroke="#9a612f"/>
+<text x="164" y="258" font-size="15">左侧 SWD 槽 7.50 × 4.50（原版恢复位置）</text>
+<text x="399" y="217" text-anchor="middle" font-size="15">后侧组合窗口 33.203 × 6.70</text>
+<text x="399" y="484" text-anchor="middle" font-size="20">PCB 参考外廓</text>
+<text x="399" y="510" text-anchor="middle" font-size="15" fill="#53616a">约 49.33 × 41.33</text>
+<text x="95" y="563" text-anchor="end" font-size="15">SMA</text>
+<text x="703" y="563" font-size="15">SMA</text>
+<text x="399" y="720" text-anchor="middle" font-size="16">前侧</text>
+<path d="M110 741v13m0-7h579.5m0-6v13 M86 190.2h-13m6.5 0V690m-6.5 0h13" fill="none" stroke="#53616a"/>
+<text x="400" y="769" text-anchor="middle" font-size="16">57.95</text>
+<text x="68" y="440" text-anchor="middle" font-size="16" transform="rotate(-90 68 440)">49.98</text>
+<path d="M689.5 330.5 H735 V356 H758" fill="none" stroke="#9a612f"/>
+<g transform="translate(775 0)">
+<text y="185" font-size="22" font-weight="bold">壳体与接口</text>
+<text y="224" font-size="17">外形 57.95 × 49.98 × 15.85</text>
+<text y="257" font-size="17">4 块独立侧板、嵌入式底板、独立盖板</text>
+<text y="290" font-size="17">侧板厚 4.00，底板厚 5.00，盖板厚 2.00</text>
+<text y="323" font-size="17">底板四边各留 0.02 装配间隙</text>
+<text y="362" font-size="17">右侧 Type-C 窗口 11.50 × 6.70</text>
+<text y="407" font-size="17">左右各 1 个 SMA 四孔法兰</text>
+<text y="440" font-size="17">法兰孔 M2.2 × 0.45，穿墙孔 Φ4.10</text>
+<text y="473" font-size="17">SMA 针脚下缘距 PCB 顶面 0.25</text>
+<text y="528" font-size="21" font-weight="bold">固定孔</text>
+<text y="566" font-size="17" fill="#326274">○　5 处 PCB 固定孔</text>
+<text y="599" font-size="17">○　6 处盖板固定孔</text>
+<text y="632" font-size="17">侧板各 2 颗横向 M2，锁入底板边缘</text>
+<text y="665" font-size="15" fill="#53616a">横向孔沿板厚方向布置，俯视图略去。</text>
+</g>
+<text x="45" y="800" font-size="14" fill="#53616a">侧窗虚线表示侧壁开口的俯视投影。加工尺寸以同版 SolidWorks 模型和零件工程图为准。</text>
+</g>
+</svg>
